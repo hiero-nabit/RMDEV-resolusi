@@ -1,6 +1,0 @@
-RMDEV Resolusi
-- Konsisten coding
-- Membuat Blog pribadi RMDEV
-- Ingin belajar VUe JS
-- Buat Vlog
-- Test Branch rencana Kontent
